@@ -738,7 +738,7 @@ export function BookingDisplay({
       {/* BOOKING STATUS Header */}
       <div className="bg-slate-900 p-3 border-b border-slate-700">
         <div className="text-green-400 font-mono font-semibold text-base sm:text-lg">
-          BOOKING STATUS: SEGMENTS ADDED TO PRN
+          BOOKING STATUS: SEGMENTS ADDED TO PNR
         </div>
       </div>
 

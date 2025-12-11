@@ -429,7 +429,7 @@ export class CommandParser {
         type: "booking",
         data: {
           success: true,
-          message: "ALL SEGMENTS REMOVED FROM PRN",
+          message: "ALL SEGMENTS REMOVED FROM PNR",
           clearStorage: true,
         },
         rawCommand: command,
@@ -947,7 +947,7 @@ export class CommandParser {
 
     return {
       success: true,
-      message: "SEGMENTS ADDED TO PRN",
+      message: "SEGMENTS ADDED TO PNR",
       booking: {
         numberOfPassengers,
         rbd,
